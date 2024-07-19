@@ -14,7 +14,7 @@ public class OrderServiceImpl implements OrderService {
 //    private final DiscountPolicy discountPolicy = new FixDiscountPolicy();
     private final DiscountPolicy discountPolicy = new RateDiscountPolicy();
     //이렇게만 바꿔 끼우면 다른 할인 정책으로 쉽게 바꿀 수 있게 되는 것이다.
-    //
+    //ㅎㅇㅎㅇ
 
 
     @Override
